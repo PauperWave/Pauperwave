@@ -1,3 +1,0 @@
-# Pauperwave
-
-Profile page.
